@@ -414,7 +414,9 @@ a:active {
       float: none;
   }
 
-
+ .me {
+    width: 500px;
+  }
 }
 
 
