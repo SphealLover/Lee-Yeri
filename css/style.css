@@ -67,6 +67,12 @@ body {
   color: #fff;
 }
 
+.site-service-item .Percent {
+  font-size: 30px;
+  color: #972E0D;
+}
+
+
 h1,
 h2,
 h3,
@@ -703,7 +709,7 @@ a:active {
 
 .site-service-item .icon span {
   font-size: 40px;
-  color: #080b0e;
+  color: #FFA900;
   position: absolute;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -715,7 +721,7 @@ a:active {
 .site-service-item h3 {
   font-size: 20px;
   font-weight: 200;
-  color: #FF8282;
+  color: #FFA900;
 }
 
 .site-link {
