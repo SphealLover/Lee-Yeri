@@ -639,6 +639,16 @@ a:active {
   background-color: #FFC06D;
 }
 
+
+.box{
+  background-color: white;
+  border-radius: 50px;
+  padding: 30px 30px 1px;
+}
+
+
+
+
 #section-portfolio {
   background-color: #FFC06D;
 }
