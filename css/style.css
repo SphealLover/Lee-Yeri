@@ -990,6 +990,11 @@ a:active {
 }
 
 
+.pts {
+  width: 50px;
+  padding-top: 25px;
+}
+
 #section-skill {
   background-color: #F89737;
 }
