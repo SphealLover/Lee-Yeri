@@ -284,7 +284,9 @@ a:active {
 }
 
 
-
+.aboutme {
+  text-align: center;
+}
 
 
 @media(min-width:992px) {
@@ -696,9 +698,7 @@ a:active {
   border: white 3px solid;
 }
 
-.aboutme {
-  text-align: center;
-}
+
 
 .thumb {
   border-radius: 50px;
