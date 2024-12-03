@@ -509,6 +509,7 @@ a:active {
   position: relative;
   text-transform: uppercase;
   letter-spacing: .2em;
+  backdrop-filter: brightness(1);
 }
 
 .site-navbar .navbar-nav>.text1>a:hover {
