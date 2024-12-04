@@ -337,7 +337,7 @@ a:active {
   }
 
   .timeline-content::after {
-    border: 1px solid #eee;
+/*     border: 1px solid #eee; */
     width: 80%;
     position: absolute;
     content: "";
