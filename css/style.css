@@ -1071,6 +1071,7 @@ a:active {
 
 #section-resume {
   background-color: #FFA64E;
+  overflow: hidden;
 }
 
 #section-contact {
